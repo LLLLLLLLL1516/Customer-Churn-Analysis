@@ -20,8 +20,13 @@ Recommendations on monthly churn initiatives
 with collected data, apply data science techniques to understand customer churn behaviors and build a predictive model to predict the probablity of future customer churn. 
 
 ## Data Acquisition
+Data is collected and ready to use. The data is taken from Kaggle Customer Churn Competition
 Data Srouce: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 ## Data Preparation 
+Data is checked for dimension, uniqueness, columns type and meaning, and missingness. 
+Univariate and Bivariate analysis are performed to visualize predictors and get initial data insights. 
+Data is splitted into train and test set, with categorical features tranformed by one-hot-encoding and numerical features standadized to same scale. 
+
 ## Model Training & Validation
 ## Testing & Evaluation
 ## Deployment & Inference
