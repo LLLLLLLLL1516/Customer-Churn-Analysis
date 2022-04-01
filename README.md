@@ -3,7 +3,17 @@ Churn is a key driver of EBITDA margin and an industry-wide challenge. A churned
 With the help of data science, companies are able to get business understanding of customer churn, develope and implement predictive model to predict future customer churn probability, then engage and act based on the result of analysis. 
 ## Churn Mange with Data Science:
 ### Capture & Analyze
-
+Identify data requirements and explore data availability
+Requeuest and extract data required to build a model
+Aggregate, clean and standadize data in disired format for model
+### Report & Predict
+Business analytics of standadized data
+Predictive model design
+Development and implementation of predictive model
+### Engage & Act
+List of churn drivers / KPIs for trackign and monitoring
+A generated list of recommended subscribers for targetedchurn campaigns
+Recommendations on monthly churn initiatives 
 
 #In this Project
 Dat Srouce: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
