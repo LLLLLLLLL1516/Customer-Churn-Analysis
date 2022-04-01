@@ -16,8 +16,13 @@ A generated list of recommended subscribers for targetedchurn campaigns
 Recommendations on monthly churn initiatives 
 
 # In this Project
-#### Data Srouce: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+## Business Need: 
+with collected data, apply data science techniques to understand customer churn behaviors and build a predictive model to predict the probablity of future customer churn. 
 
-## Business Need: with collected data, apply data science techniques to understand customer churn behaviors and build a predictive model to predict the probablity of future customer churn. 
-
+## Data Acquisition
+Data Srouce: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+## Data Preparation 
+## Model Training & Validation
+## Testing & Evaluation
+## Deployment & Inference
 
