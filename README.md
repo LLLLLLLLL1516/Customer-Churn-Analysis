@@ -37,9 +37,9 @@ Baseline model results showed Logistic Regression and Random Forest performed be
 Logistic Regression:
   •	L1, L2 regularization
   •	C = 1/lambda, weight of L1/L2
-Random Forest:
-  •	N_estimators: number of trees 
-  •	Max_depth: It governs the maximum height upto which the trees inside the forest can grow. as we increase the depth of the tree the model accuracy increases upto a certain limit but then it will start to decrease gradually because of overfitting in the model. 
+Random Forest:  
+  •	N_estimators: number of trees   
+  •	Max_depth: It governs the maximum height upto which the trees inside the forest can grow. as we increase the depth of the tree the model accuracy increases upto a certain limit but then it will start to decrease gradually because of overfitting in the model.   
 
-## Deployment & Inference
-
+## Deployment & Inference (Work in Progress)  
+FLASK is used to deploy the best model. FLASK API is created and UI will be used to take future input, a churn probability will be produced. 
