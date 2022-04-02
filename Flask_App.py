@@ -12,10 +12,6 @@ To run this:
     FLASK RUN
 """
 
-##import os
-##path="C:/Users/liuwe/OneDrive/DataScience/Projects/Customer Churn/Telecom"
-##os.chdir(path)
-
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier 
