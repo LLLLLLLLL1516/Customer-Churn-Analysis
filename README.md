@@ -33,8 +33,8 @@ Data is splitted into train and test set with stratified sampling, with categori
 
 ## Testing & Evaluation
 Baseline model results showed Logistic Regression and Random Forest performed better, thus drop KNN. 
-1.	Use Grid Search to Find Optimal Hyperparameters 
-Logistic Regression:
+1.	Use Grid Search to Find Optimal Hyperparameters   
+Logistic Regression:  
   •	L1, L2 regularization  
   •	C = 1/lambda, weight of L1/L2  
 Random Forest:   
